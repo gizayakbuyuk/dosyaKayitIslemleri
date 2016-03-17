@@ -1,0 +1,9 @@
+D:\Görsel Programlama\17.Ders(14.03.2016)\Dosya Kayıt İşlemleri\Dosya Kayıt İşlemleri\bin\Debug\Dosya Kayıt İşlemleri.exe.config
+D:\Görsel Programlama\17.Ders(14.03.2016)\Dosya Kayıt İşlemleri\Dosya Kayıt İşlemleri\bin\Debug\Dosya Kayıt İşlemleri.exe
+D:\Görsel Programlama\17.Ders(14.03.2016)\Dosya Kayıt İşlemleri\Dosya Kayıt İşlemleri\bin\Debug\Dosya Kayıt İşlemleri.pdb
+D:\Görsel Programlama\17.Ders(14.03.2016)\Dosya Kayıt İşlemleri\Dosya Kayıt İşlemleri\obj\Debug\Dosya Kayıt İşlemleri.csprojResolveAssemblyReference.cache
+D:\Görsel Programlama\17.Ders(14.03.2016)\Dosya Kayıt İşlemleri\Dosya Kayıt İşlemleri\obj\Debug\Dosya_Kayıt_İşlemleri.Form1.resources
+D:\Görsel Programlama\17.Ders(14.03.2016)\Dosya Kayıt İşlemleri\Dosya Kayıt İşlemleri\obj\Debug\Dosya_Kayıt_İşlemleri.Properties.Resources.resources
+D:\Görsel Programlama\17.Ders(14.03.2016)\Dosya Kayıt İşlemleri\Dosya Kayıt İşlemleri\obj\Debug\Dosya Kayıt İşlemleri.csproj.GenerateResource.Cache
+D:\Görsel Programlama\17.Ders(14.03.2016)\Dosya Kayıt İşlemleri\Dosya Kayıt İşlemleri\obj\Debug\Dosya Kayıt İşlemleri.exe
+D:\Görsel Programlama\17.Ders(14.03.2016)\Dosya Kayıt İşlemleri\Dosya Kayıt İşlemleri\obj\Debug\Dosya Kayıt İşlemleri.pdb
